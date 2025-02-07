@@ -16,5 +16,3 @@ Ejecutar el comando
 Modificar la variable de entorno del .env 
 REACT_APP_WEB_SERVICE = "http://localhost:4000" a REACT_APP_WEB_SERVICE = "https://gapsi-test-backend.onrender.com/"
 
-HTTPS = false a HTTPS = true
-
