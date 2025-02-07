@@ -1,0 +1,62 @@
+:root {
+    --blue-light: #0673B6;
+    --blue-dark: #003D6B;
+    --gray-light: #F2F2F2;
+}
+
+
+.full-content {
+    min-height: calc(100vh - 80px - 60px);
+}
+
+.width-100 {
+    width: 100%
+}
+
+.white-text {
+    color: #fff
+}
+
+.header-text {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.flex-end {
+    display: flex;
+    justify-content: flex-end
+}
+
+.flex-center {
+    display: flex;
+    justify-content: flex-center;
+}
+
+.pd-1 {
+    padding: 1rem;
+}
+
+.pd-2 {
+    padding: 2rem;
+}
+
+.pl-1 {
+    padding-left: 1rem;
+}
+
+.pr-1 {
+    padding-right: 1rem;
+}
+
+.search-input {
+    min-width: 200px;
+    width: 500px;
+    max-width: 500px;
+}
+
+.list-item {
+    background: #fff;
+    margin: 5px 0 5px 0;
+    border-radius: 4px;
+}
